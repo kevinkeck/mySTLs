@@ -1,31 +1,31 @@
 # mySTLs
 STL files I designed in Autodesk Fusion 360 for 3D printing.
-Designed for a Kodama Trinus printer.
+Designed to be printed on a Kodama Trinus printer's printbed.
 
 
 
-Printer Specifications:
+## Printer Specifications:
 
-Print volume: 120 x 125 x 125mm
+**Print volume:** 120 x 125 x 125mm
 (4.72 x 4.92 x 4.92in)
 
-Print speed: 70mm/sec
+**Print speed:**** 70mm/sec
 
-Moving speed: up to 150mm/sec
+**Moving speed**: up to 150mm/sec
 
-Minimum layer height: 0.05mm (50microns)
+**Minimum layer height:** 0.05mm (50microns)
 
-Print material: 1.75mm
+**Print material:** 1.75mm
 PLA, ABS, PC, Flex, Wood
 
-XYZ axis resolution: 2.5um
+**XYZ axis resolution:** 2.5um
 
-OS supported: Windows, Mac OS
+**OS supported:** Windows, Mac OS
 
-File format: PCode (Pango), GCode (others)
+**File format:** PCode (Pango), GCode (others)
 
-Connectivity: USB, SD card (autoprint)
+**Connectivity:** USB, SD card (autoprint)
 
-Power consumption: 60W
+**Power consumption:** 60W
 
-Weight: 9.8kg
+**Weight:** 9.8kg
