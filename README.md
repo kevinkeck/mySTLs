@@ -9,7 +9,7 @@ Designed to be printed on a Kodama Trinus printer's printbed.
 **Print volume:** 120 x 125 x 125mm
 (4.72 x 4.92 x 4.92in)
 
-**Print speed:**** 70mm/sec
+**Print speed:** 70mm/sec
 
 **Moving speed**: up to 150mm/sec
 
